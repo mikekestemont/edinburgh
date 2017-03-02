@@ -128,7 +128,6 @@ def tokens_from_file(filename, text_cutoff=None):
     text = whitespace.sub(' ', text)
 
     tokens = word_tokenize(text)
-    #tokens = text.split()
     tokens = [t.strip() for t in tokens if t.strip()]
 
     if text_cutoff:
