@@ -1,7 +1,7 @@
-# Edinburgh and the Hidden Roots of Darwinism
+# Edinburgh and the Birth of British Evolutionism
 ## A Peek Behind a Veil of Anonymity
 
-*By Koen Tanghe (Ghent University) & Mike Kestemont (University of Antwerp)*
+*By Koen B. Tanghe (Ghent University) & Mike Kestemont (University of Antwerp)*
 
 This repository contains the software, figures and data for the authorship verification experiment reported in the paper "Edinburgh and the Hidden Roots of Darwinism: A Peek Behind a Veil of Anonymity". Our verification method is available as a single-file Python script (Python +3.4) which has the following, basic dependencies (mostly part of the Anaconda distribution):
 
